@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9496adfa7e15f96489eab90e94e85dab, type: 3}
+  m_Name: Energy Potion
+  m_EditorClassIdentifier: 
+  ItemName: Potion of Energy
+  ItemDescription: A bright yellow potion that provides a temporary surge of energy
+    and vitality when consumed. (10 Golds)
+  Love: {fileID: 11400000, guid: 6960b75636d4d2f45bb07461990da97e, type: 2}
+  Heal: {fileID: 11400000, guid: b16f322301ac6a649a3d669c51bc053b, type: 2}
+  Energy: {fileID: 11400000}
+  Mana: {fileID: 11400000, guid: da0c584996b05314bb94986a483247c9, type: 2}
+  Poison: {fileID: 11400000, guid: 13cf31486fadc8446a9c9147f5204729, type: 2}
+  currentPic: {fileID: 2872957685914928263, guid: e75052e6b4eab5547974a06c4adae6e5, type: 3}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9496adfa7e15f96489eab90e94e85dab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Love: {fileID: 11400000, guid: 6960b75636d4d2f45bb07461990da97e, type: 2}
+  - Heal: {fileID: 11400000, guid: b16f322301ac6a649a3d669c51bc053b, type: 2}
+  - Energy: {fileID: 11400000, guid: d79af11d8e51ff549852e9a39af30b4b, type: 2}
+  - Mana: {fileID: 11400000, guid: da0c584996b05314bb94986a483247c9, type: 2}
+  - Poison: {fileID: 11400000, guid: 13cf31486fadc8446a9c9147f5204729, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
